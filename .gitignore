@@ -1,0 +1,8 @@
+source/
+private/
+*.csv
+.staticrypt.json
+# Only the root index.html and <code>/index.html pages may be committed
+*.html
+!/index.html
+!/*/index.html
